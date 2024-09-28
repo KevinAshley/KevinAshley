@@ -1,4 +1,4 @@
-<h1 text-align="center">Kevin Ashley</h1>
+<h1 align="center">Kevin Ashley</h1>
 
 <div align="center">
     <img 
