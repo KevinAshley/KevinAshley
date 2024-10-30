@@ -1,8 +1,8 @@
 <h1 align="center">Kevin Ashley</h1>
 <div id="toc">
-  <ul style="list-style: none;">
+  <ul style="list-style: none; text-align: center;">
     <summary>
-      <h2 align="center">Software Engineer</h2>
+      <h2 align="center">Software Engineer</h2><br />
       <h3 align="center">Full Stack Web Developer</h3>
     </summary>
   </ul>
