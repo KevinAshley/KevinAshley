@@ -1,1 +1,1 @@
-<img src="https://www.kashley.net/images/opengraph-image.png" width="100%" />
+<img src="https://www.kashley.net/images/github-banner-image.jpg" width="100%" />
